@@ -49,7 +49,6 @@ $ cargo run --release -- -n 5 -f 3
 
 ## GIF
 
-Check out this GIF to see the utility in action:
 ![](https://github.com/9i5BCrUcNX5NmT/hash-brute-force/assets/88964539/8e5fe52f-7330-485a-8e43-d53d3fc1fbc5)
 
 
