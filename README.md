@@ -22,7 +22,7 @@ Replace <arguments> with the desired command-line arguments to specify the range
 For example, to generate hashes and filter them for at least 3 trailing zeros and find the first 1000 hashes, you can run the following command:
 
 ```bash
-cargo run --release -- --null 3 --find 1000
+cargo run --release -- --null 3 --first 1000
 ```
 
 ## Examples
